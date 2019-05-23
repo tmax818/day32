@@ -10,7 +10,7 @@ const NotFound = () => (
     </p>
     <br />
     <p>
-      This <a href="/">Serverside Home</a> one uses the plain vanilla html
+      This <a href="/day32">Serverside Home</a> one uses the plain vanilla html
       anchor tag. Watch the browser carefully and you can see it re-render.
     </p>
   </div>
