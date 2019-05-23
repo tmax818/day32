@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/day32/static/css/main.41b78a76.chunk.css",
-    "main.js": "/day32/static/js/main.9537a797.chunk.js",
-    "main.js.map": "/day32/static/js/main.9537a797.chunk.js.map",
+    "main.js": "/day32/static/js/main.b08bd8a1.chunk.js",
+    "main.js.map": "/day32/static/js/main.b08bd8a1.chunk.js.map",
     "runtime~main.js": "/day32/static/js/runtime~main.287b1bd4.js",
     "runtime~main.js.map": "/day32/static/js/runtime~main.287b1bd4.js.map",
     "static/js/2.ce2ab601.chunk.js": "/day32/static/js/2.ce2ab601.chunk.js",
     "static/js/2.ce2ab601.chunk.js.map": "/day32/static/js/2.ce2ab601.chunk.js.map",
     "index.html": "/day32/index.html",
-    "precache-manifest.07a35090bd9c0c57ae19e49bd72ed9d0.js": "/day32/precache-manifest.07a35090bd9c0c57ae19e49bd72ed9d0.js",
+    "precache-manifest.6bfa6cb6e60f7e59a821110ac0608eae.js": "/day32/precache-manifest.6bfa6cb6e60f7e59a821110ac0608eae.js",
     "service-worker.js": "/day32/service-worker.js",
     "static/css/main.41b78a76.chunk.css.map": "/day32/static/css/main.41b78a76.chunk.css.map"
   }
